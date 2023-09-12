@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Etsy-Ui-Automation_With-Selenium"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="4"
+           time="2.581">
+  <properties />
+  
+            <testcase name="testSetUp" time="0.0" classname="etsy.features.SearchFeatureVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="globalCleanUp" time="0.0" classname="etsy.features.SearchFeatureVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="shouldDisplayNotFoundPageForInvalidQuery" time="0.0" classname="etsy.features.SearchFeatureVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="shouldDisplaySearchResultsForValidQuery" time="0.0" classname="etsy.features.SearchFeatureVerificationTest">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>
