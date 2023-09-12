@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Etsy-Ui-Automation_With-Selenium"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="2"
+           time="2.895">
+  <properties />
+  
+            <testcase name="globalCleanUp" time="0.0" classname="pl.globallogic.etsy.features.SearchFeatureVerificationTest">
+          <skipped />
+    </testcase>
+            <testcase name="shouldDisplaySearchResultsForValidQuery" time="0.0" classname="pl.globallogic.etsy.features.SearchFeatureVerificationTest">
+          <skipped />
+    </testcase>
+  
+  
+</testsuite>
